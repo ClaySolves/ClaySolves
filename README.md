@@ -1,3 +1,3 @@
 Clay
 
-POWER !!!!!!
+fullstack SWE
